@@ -1,0 +1,2 @@
+public class LongestConsequenceSubsequence {
+}
